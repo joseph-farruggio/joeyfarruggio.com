@@ -1,0 +1,8 @@
+/*! project-name v0.0.1 | (c) 2019 YOUR NAME | MIT License | http://link-to-your-git-repo.com */
+/*!
+ * project-name v0.0.1
+ * A description for your project.
+ * (c) 2019 YOUR NAME
+ * MIT License
+ * http://link-to-your-git-repo.com
+ */.testimonials{margin-top:2rem}@media screen and (min-width:700px){.testimonials{display:-webkit-box;display:-ms-flexbox;display:flex;position:relative;left:50%;right:50%;width:650px;margin-left:-325px;margin-right:-325px}.testimonials .testimonial{margin:0 10px 10px}}@media screen and (min-width:1000px){.testimonials{width:950px;margin-left:-475px;margin-right:-475px}}.testimonial{text-align:center;background:#222;padding:0 20px 40px;margin-top:120px;border-radius:6px;color:#fff}.testimonial img{border-radius:50%;height:130px;width:130px;margin-top:-70px}

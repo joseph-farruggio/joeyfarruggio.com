@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript &#8211; Joey Farruggio</title>
+	<atom:link href="https://joeyfarruggio.com/category/javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>https://joeyfarruggio.com</link>
+	<description>Web Design, Development &#38; SEO</description>
+	<lastBuildDate>Thu, 09 Jul 2020 18:04:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Drift Chatbot – Optimize for Page Speed</title>
+		<link>https://joeyfarruggio.com/javascript/drift-chatbot-page-speed/</link>
+					<comments>https://joeyfarruggio.com/javascript/drift-chatbot-page-speed/#respond</comments>
+		
+		<dc:creator><![CDATA[Joey Farruggio]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2020 16:20:29 +0000</pubDate>
+				<category><![CDATA[Javascript]]></category>
+		<guid isPermaLink="false">https://joeyfarruggio.com/?p=563</guid>
+
+					<description><![CDATA[Update July 9th 2020: I&#8217;ve created a WP plugin called Chatbot Lazy Loader to handle the optimization of your chatbot. It even hit #3 on Product Hunt. When we&#8217;re considering JS dependent functionality, we need to weight its benefits against its costs. Chat bots are powerful support and lead gen tools, but like any JavaScript [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://joeyfarruggio.com/javascript/drift-chatbot-page-speed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
